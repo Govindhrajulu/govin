@@ -1,0 +1,4 @@
+Add .gitignore file to exclude unnecessary files
+
+- Ignored log files and environment configs  
+- Prevented tracking of dependencies and temp files  
